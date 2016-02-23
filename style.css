@@ -1,0 +1,19 @@
+/*
+Theme Name: Desiratech Organization Theme - Bootstrap
+Theme URI: https://github.com/djm204/desiratech-organization-wordpress-theme
+Description: A wordpress theme that can be utilized for organizations
+Author: Desiratech Development - David Mendez
+Author URI: http://dev.desiratech.com
+Version: 1.0.0
+Tags: responsive, white, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+*/
+@import url('src/bootstrap/css/bootstrap.css'); 
+@import url('src/bootstrap/css/bootstrap-theme.css'); 
+body { 
+     padding-top: 60px; 
+     padding-bottom: 40px; 
+}
