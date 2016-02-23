@@ -1,6 +1,5 @@
 <?php get_header(); ?>
 
-<?php get_sidebar(); ?>
 
     <div id="main">
     
@@ -25,6 +24,7 @@
         </div>
     <?php endwhile ?>
     
+<?php get_sidebar(); ?>
     
     <div class="pagination">
         <ul>
